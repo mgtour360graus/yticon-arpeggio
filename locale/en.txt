@@ -1,0 +1,137 @@
+#: locale=en
+
+## Action
+
+### PDF
+PopupPDFBehaviour_BD74B68E_F96B_B7C2_41DD_0155BFB73B9F.url = files/CONTEMN%C3%83OCONTEM_DECORADO_pt.pdf
+PopupPDFBehaviour_E8717EFE_FE5E_2B2C_41E2_77D74372F94E.url = files/CONTEMN%C3%83OCONTEM_DECORADO_pt.pdf
+
+### URL
+LinkBehaviour_482A5A3D_033B_5E62_4182_9B59FD9869A9.source = https://mgtour360.com.br/
+LinkBehaviour_CA4B84EB_F914_CB41_41B0_DDB76E50F141.source = https://www.contate.me/yticon-arpeggio
+LinkBehaviour_E7AF2979_FE52_6935_41E6_306D714E8A3E.source = https://www.contate.me/yticon-arpeggio
+WebFrame_BE382C61_F914_BB7E_41D1_4F37D0D101B6.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23159.353491630944!2d-51.94801636596823!3d-23.440508690858604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ecd752726589f1%3A0xf2ac7fffe59f7d14!2sAv.%20Arquiteto%20Nildo%20Ribeiro%20da%20Rocha%2C%203291%20-%20Jardim%20Higien%C3%B3polis%2C%20Maring%C3%A1%20-%20PR!5e1!3m2!1spt-BR!2sbr!4v1765128854389!5m2!1spt-BR!2sbr
+WebFrame_E967B4EE_FE72_3F2C_41A2_76EB9E586279.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23159.353491630944!2d-51.94801636596823!3d-23.440508690858604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ecd752726589f1%3A0xf2ac7fffe59f7d14!2sAv.%20Arquiteto%20Nildo%20Ribeiro%20da%20Rocha%2C%203291%20-%20Jardim%20Higien%C3%B3polis%2C%20Maring%C3%A1%20-%20PR!5e1!3m2!1spt-BR!2sbr!4v1765128854389!5m2!1spt-BR!2sbr
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_072D1545_08A1_FD91_415E_B678A497F1DE.url = media/map_E6DAA5DF_F93D_D542_41E8_6CB0B58FCA3A_pt_0.webp
+imlevel_072D7545_08A1_FD91_416A_A1049240352C.url = media/map_E6DAA5DF_F93D_D542_41E8_6CB0B58FCA3A_pt_1.webp
+imlevel_072DA546_08A1_FD93_419E_218117EF3C0F.url = media/map_E6DAA5DF_F93D_D542_41E8_6CB0B58FCA3A_pt_2.webp
+imlevel_072DB547_08A1_FD91_41A0_1749CAC2504A.url = media/map_E6DAA5DF_F93D_D542_41E8_6CB0B58FCA3A_pt_3.webp
+imlevel_072DE547_08A1_FD91_4195_1B9CF5FDDA96.url = media/map_E6DAA5DF_F93D_D542_41E8_6CB0B58FCA3A_pt_4.webp
+imlevel_4966FE48_037B_7622_4102_D374F2508A00.url = media/popup_1A1743A3_0369_6E67_4178_53C34E26E853_pt_0_0.webp
+imlevel_4966CE49_037B_7622_4187_C137EFD7B601.url = media/popup_1A1743A3_0369_6E67_4178_53C34E26E853_pt_0_1.webp
+imlevel_49662E49_037B_7622_4172_4221C8F7D7B3.url = media/popup_1A1743A3_0369_6E67_4178_53C34E26E853_pt_0_2.webp
+imlevel_4978CC04_037B_7A22_4175_CB4A062A77C3.url = media/popup_1A667437_037B_EA6E_4171_15DB0C02F0FF_pt_0_0.webp
+imlevel_49782C04_037B_7A22_4182_56EDC6D85EE3.url = media/popup_1A667437_037B_EA6E_4171_15DB0C02F0FF_pt_0_1.webp
+imlevel_49780C05_037B_7A22_418B_7888728D669E.url = media/popup_1A667437_037B_EA6E_4171_15DB0C02F0FF_pt_0_2.webp
+imlevel_4B4E64C5_037B_6A23_4183_CAF2DACE736B.url = media/popup_1B4FD097_0367_EA2E_417B_C5476F7284B7_pt_0_0.webp
+imlevel_4B4E54C6_037B_6A21_418C_77A6BBCAB488.url = media/popup_1B4FD097_0367_EA2E_417B_C5476F7284B7_pt_0_1.webp
+imlevel_4B4E44C6_037B_6A21_4170_C1155BB26252.url = media/popup_1B4FD097_0367_EA2E_417B_C5476F7284B7_pt_0_2.webp
+imlevel_497818A7_037B_7A6E_416A_0E0D4506B2A0.url = media/popup_1D620899_032B_3A22_4159_08CB3D694722_pt_0_0.webp
+imlevel_497878A7_037B_7A6E_415F_7AFB6B04A2EC.url = media/popup_1D620899_032B_3A22_4159_08CB3D694722_pt_0_1.webp
+imlevel_497848A8_037B_7A62_4127_A0DE290A6E40.url = media/popup_1D620899_032B_3A22_4159_08CB3D694722_pt_0_2.webp
+imlevel_4B4F0230_037B_6E61_4188_D5B85A334072.url = media/popup_1E05FC66_0329_DAE1_413A_2854189E460C_pt_0_0.webp
+imlevel_4B4F7230_037B_6E61_4189_F3EA0C879642.url = media/popup_1E05FC66_0329_DAE1_413A_2854189E460C_pt_0_1.webp
+imlevel_4B4F6231_037B_6E62_4180_0CDB2DD26739.url = media/popup_1E05FC66_0329_DAE1_413A_2854189E460C_pt_0_2.webp
+imlevel_497352FB_037B_6FE5_4171_31AF99490763.url = media/popup_1E20EE17_0319_362E_4183_F62F6DEE0B30_pt_0_0.webp
+imlevel_4972A2FC_037B_6FE2_4174_19D4EC0E90BD.url = media/popup_1E20EE17_0319_362E_4183_F62F6DEE0B30_pt_0_1.webp
+imlevel_4972B2FD_037B_6FE2_4179_152388246EB9.url = media/popup_1E20EE17_0319_362E_4183_F62F6DEE0B30_pt_0_2.webp
+imlevel_4B4BF6E7_037B_57EE_4163_C95DD6C4B1E0.url = media/popup_1EAEA018_032F_6A22_4165_BAAF326C6F32_pt_0_0.webp
+imlevel_4B4986E8_037B_57E2_4170_924BC9EB87CE.url = media/popup_1EAEA018_032F_6A22_4165_BAAF326C6F32_pt_0_1.webp
+imlevel_4B49F6E8_037B_57E2_4179_103FFF7C61A0.url = media/popup_1EAEA018_032F_6A22_4165_BAAF326C6F32_pt_0_2.webp
+imlevel_497CF5C4_037B_6A22_4170_68E8647B1524.url = media/popup_1EF86ABD_0329_5E62_417D_BE3FF008B607_pt_0_0.webp
+imlevel_497DF5C5_037B_6A22_4186_74A62B502B98.url = media/popup_1EF86ABD_0329_5E62_417D_BE3FF008B607_pt_0_1.webp
+imlevel_497DC5C5_037B_6A22_416D_C181B2F44471.url = media/popup_1EF86ABD_0329_5E62_417D_BE3FF008B607_pt_0_2.webp
+
+### Popup Image
+
+### Title
+album_F96468A5_F4FC_B4D1_41C7_4957ECD9E7EC_2.label = -14041156911309691934_bg
+album_F96468A5_F4FC_B4D1_41C7_4957ECD9E7EC_1.label = 12841540891299057677_bg
+album_F96468A5_F4FC_B4D1_41C7_4957ECD9E7EC_0.label = 535867041295467628_bg
+album_F96468A5_F4FC_B4D1_41C7_4957ECD9E7EC_3.label = 6534046341225618019_bg
+map_E6DAA5DF_F93D_D542_41E8_6CB0B58FCA3A.label = 858_PLH01_DECORADO3D_HR_COTAS
+panorama_E56266F5_E993_440B_41CE_663D438E9895.label = Acesso
+panorama_E563AA1E_E992_CC38_41DE_58CBD952B1A2.label = Banheiro Social
+panorama_E56259F0_E993_4C08_41C6_569288A6630F.label = Banho Suíte
+panorama_E56243DC_E992_BC38_41B0_F251A7CDD400.label = Closet
+panorama_E563BF0F_E992_C418_41E4_737FEA06A8DC.label = Corredor
+panorama_E562E0B1_E993_DC0B_41BD_EE320BAEE17C.label = Cozinha
+panorama_E7C62228_E992_DC18_41C5_6C8463233F1A.label = Dormitório I
+panorama_3A3D0955_03E6_DA22_4178_69CE036EE980.label = SACADA
+panorama_E5623A58_E993_CC39_41D5_981592374C19.label = Sacada
+panorama_E5624CC4_E993_4409_41C7_E43B9A8A056D.label = Sala de Estar/Jantar
+panorama_E56273E6_E993_7C09_41D0_E995190D75B6.label = Sala de Estar/Jantar
+panorama_E56250C3_E993_5C08_41EC_FA857ECBB378.label = Sala de Estar/Jantar
+panorama_E56256F2_E993_4409_41C8_DF193F08DCB1.label = Suíte
+panorama_E561CBE5_E992_CC08_41E4_BEC9C29C7AF4.label = Suíte
+panorama_E562F4C3_E993_C40F_41E8_2783778F312E.label = lavanderia
+album_F96468A5_F4FC_B4D1_41C7_4957ECD9E7EC.label = Álbum de Fotos 535867041295467628_bg
+
+## Right Click Menu
+
+### Text
+menuItem_4C9A9CBC_033B_3A61_4188_736B739E96DF.label = DESENVOLVIDO POR MG TOUR 360 GRAUS 
+
+## Skin
+
+### Button
+Button_E63AF6E8_FE72_3B53_41EF_82E7182D9CDF.label = Saiba mais
+Button_D70E1B91_F93F_7DC1_41D7_BEB1F2B20913.label = Saiba mais 
+
+### Image
+Image_A446A501_B7A9_9288_41CD_9CE648FF0DF9_mobile.url = skin/Image_A446A501_B7A9_9288_41CD_9CE648FF0DF9_mobile_en.png
+Image_A446A501_B7A9_9288_41CD_9CE648FF0DF9.url = skin/Image_A446A501_B7A9_9288_41CD_9CE648FF0DF9_en.png
+Image_D709AB90_F93F_7DDF_41B5_C6F0DC36EF7B.url = skin/Image_D709AB90_F93F_7DDF_41B5_C6F0DC36EF7B_pt.jpg
+Image_E75C11CE_FE4D_F96C_41CC_D3CA2DCAFC29.url = skin/Image_E75C11CE_FE4D_F96C_41CC_D3CA2DCAFC29_pt.png
+Image_E75DF01E_FE72_56EF_41B8_53D83B2F3B15.url = skin/Image_E75DF01E_FE72_56EF_41B8_53D83B2F3B15_pt.png
+Image_EA2F020A_FBE3_F7D3_41EC_3692EB5E8668.url = skin/Image_EA2F020A_FBE3_F7D3_41EC_3692EB5E8668_pt.png
+Image_EA49A21A_FBE4_D7F7_41E9_DB70BB99CC79.url = skin/Image_EA49A21A_FBE4_D7F7_41E9_DB70BB99CC79_pt.png
+Image_EA4F8D14_FBED_4DF7_41EE_64D61976F6C1.url = skin/Image_EA4F8D14_FBED_4DF7_41EE_64D61976F6C1_pt.png
+
+### Label
+Label_CA30F546_F914_B543_41E7_CA23BE92275F.text = {{title}}
+
+### Multiline Text
+HTMLText_E97854ED_FE72_3F2C_41E6_496D40AD43E2.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:0%;text-align:left;font-size:4.456824512534819vmin;"><SPAN STYLE="vertical-align:super;display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.46vmin;font-family:'Oswald';"><B>Local</B></SPAN></SPAN></DIV></div>
+HTMLText_D709EB91_F93F_7DC1_41E5_E91E4EC94BD1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.830000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff9900;font-size:7.83vh;font-family:'Bebas Neue Bold';">_______</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.740000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.74vh;font-family:'Bebas Neue Bold';"><B>Arpeggio</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.2vh;">Chegou a hora de morar em um lugar que combina conforto, lazer e localização estratégica. O Arpeggio Yticon é o novo empreendimento em Maringá, situado na valorizada Gleba Itororó, uma região em pleno crescimento e com infraestrutura completa.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.2vh;">Com opções de apartamentos de 51m² e 64m², o Arpeggio oferece plantas inteligentes com 2 ou 3 dormitórios, sacada com churrasqueira e ambientes integrados, perfeitos para quem busca praticidade sem abrir mão do estilo.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.2vh;">ENTREGA EM JUNHO/2029</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_C3147381_F914_CDC1_41C7_D4C8F6644BAC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.650000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.65vh;font-family:'Bebas Neue Bold';">Planta:</SPAN></SPAN></DIV></div>
+HTMLText_E82340F3_FE52_3735_41EC_C6E292B156BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.0512820512820515vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.05vh;font-family:'Oswald';"><B>Ambientes</B></SPAN></SPAN></DIV></div>
+HTMLText_E91077F4_FE76_393C_41D4_2EDE27E38C66.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.0512820512820515vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.05vh;font-family:'Oswald';"><B>Fotos</B></SPAN></SPAN></DIV></div>
+HTMLText_C6B3CDB1_F974_F5C1_41D9_39EF1DBA0F76.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.9100000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.91vh;font-family:'Oswald';"><B>Ambientes</B></SPAN></SPAN></DIV></div>
+HTMLText_BEAE9F29_F92B_D6CE_41E2_3A433BAA1E56.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.9100000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.91vh;font-family:'Oswald';"><B>Fotos </B></SPAN></SPAN></DIV></div>
+HTMLText_BE384C61_F914_BB7E_41DD_48F04576BD2D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.9100000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.91vh;font-family:'Oswald';"><B>Localização </B></SPAN></SPAN></DIV></div>
+HTMLText_E63A86E8_FE72_3B53_41D4_91C8ABAE3894.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.200000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.2vh;font-family:'Oswald';"><B>Arpeggio</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.8300000000000005vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff9900;font-size:2.83vh;font-family:'Oswald Regular';">ENTREGA EM JUNHO/2029</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.74vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;">Chegou a hora de morar em um lugar que combina conforto, lazer e localização estratégica. O Arpeggio Yticon é o novo empreendimento em Maringá, situado na valorizada Gleba Itororó, uma região em pleno crescimento e com infraestrutura completa.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.74vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;">Com opções de apartamentos de 51m² e 64m², o Arpeggio oferece plantas inteligentes com 2 ou 3 dormitórios, sacada com churrasqueira e ambientes integrados, perfeitos para quem busca praticidade sem abrir mão do estilo.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+tour.description = ARPEGGIO
+
+### Title
+tour.name = YTICON APRESENTA:
+
+## VR Menu
+
+### Text
+MenuItem_4D4D4D37_033A_DA6F_4186_A7E853BD533E.label = Acesso
+MenuItem_4D4D8D36_033A_DA61_4187_DB276DF62CDB.label = Banheiro Social
+MenuItem_4D4CFD36_033A_DA61_4149_4C39D719B356.label = Banho Suíte
+MenuItem_4D4D3D36_033A_DA61_4186_606E529AEE06.label = Closet
+MenuItem_4D4D2D36_033A_DA61_4175_698589F9BBDA.label = Corredor
+MenuItem_4D4D6D36_033A_DA61_416D_FED4D9FC6413.label = Cozinha
+MenuItem_4D4D5D37_033A_DA6F_4173_A0CB24D344DB.label = Dormitório I
+Menu_4D5A9CCF_033A_DA3E_4188_066ABA1E31C3.label = Media
+MenuItem_4D4D4D36_033A_DA61_417F_3BCC874F1E5D.label = SACADA
+MenuItem_4D4D3D37_033A_DA6F_417E_95EA381291B3.label = Sacada
+MenuItem_4D4D0D36_033A_DA61_418D_FF5FFA1FB1D2.label = Sala de Estar/Jantar
+MenuItem_4D4CDD36_033A_DA61_417F_CC52D9BEC5D6.label = Sala de Estar/Jantar
+MenuItem_4D4D7D36_033A_DA61_418A_86078251EA5E.label = Sala de Estar/Jantar
+MenuItem_4D4D7D37_033A_DA6F_417B_413E22B96AE9.label = Suíte
+MenuItem_4D4D9D36_033A_DA61_418E_4F93273BA269.label = Suíte
+MenuItem_4D4CED36_033A_DA61_411B_1A2F4BA49F00.label = lavanderia
